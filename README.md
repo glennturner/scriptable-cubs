@@ -34,7 +34,6 @@ I only need to know if there's a Cubs home game but, yeah, sure. Just alter the 
 ## Author
 
 G. Turner
-contact@iamgturner.com
 https://iamgturner.com
 
 
