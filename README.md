@@ -31,8 +31,6 @@ Have you ever been around Wrigley Field after a win? Especially on a Friday or S
 
 I only need to know if there's a Cubs home game but, yeah, sure. Just alter the team ID. You can find your team ID by going to the `Downloadble Schedule` and check for the team_id in the `Download Home Season Schedule` link.
 
-### Version H
-
 ## Author
 
 G. Turner
